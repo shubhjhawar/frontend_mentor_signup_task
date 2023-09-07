@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/responsive-signup-page-using-react-and-tailwindcss-So-GcQ6GsK)
 - Live Site URL: https://frontend-mentor-signup-task.vercel.app/
 
 ## My process
